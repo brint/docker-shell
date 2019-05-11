@@ -27,6 +27,7 @@ Here's a list of things inside:
 - OS: Alpine Linux
 - Shell: zsh
 - Some of the things installed:
+  - [git](https://git-scm.com/)
   - [vim](http://www.vim.org/)
   - [curl](https://curl.haxx.se/)
   - [wget](https://www.gnu.org/software/wget/)
@@ -41,9 +42,11 @@ Here's a list of things inside:
       - [virtualenv](https://github.com/pypa/virtualenv)
       - [awscli](https://aws.amazon.com/cli/)
       - [awslogs](https://github.com/jorgebastida/awslogs)
+      - [azurecli](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
   - Ruby stuff:
       - [rbenv](https://github.com/rbenv/rbenv)
       - [Ruby 2.4.0](https://www.ruby-lang.org)
+  - [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
 
 
 # Usage
